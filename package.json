@@ -1,0 +1,37 @@
+{
+  "name": "grunt-psi-html-report",
+  "description": "Creates html report of Google's PageSpeed Insights scores for multiple urls.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/omkarswami/grunt-psi-html-report",
+  "author": {
+    "name": "Omkar Swami",
+    "email": "omkarswami17@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/omkarswami/grunt-psi-html-report.git"
+  },
+  "bugs": {
+    "url": "https://github.com/omkarswami/grunt-psi-html-report/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/omkarswami/grunt-psi-html-report/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin", "pagespeed","psi","pagespeed test","html report"
+  ],
+  "dependencies": {
+    "psi": "^3.1.0"
+  }
+}
